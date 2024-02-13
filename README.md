@@ -100,7 +100,7 @@ rainy,75.0,80.0,false,yes
 
 ![image](https://github.com/Guruprasad21002001/WDM_EXP1/assets/95342910/7594051b-9496-4455-879c-d6dfdf8e21a5)
 
-![image](https://github.com/Karthikeyan21001828/WDM_EXP1/assets/93427303/21a74688-19a6-41c1-9dff-b5fb2c85d3f6)
+![image](https://github.com/Guruprasad21002001/WDM_EXP1/assets/95342910/9ecf48ec-ca5e-4e8d-a6b5-3ab4213e7fdc)
 
 ### Normalize -> Pre-Processing Technique:
 
