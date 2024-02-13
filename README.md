@@ -80,7 +80,7 @@ rainy,75.0,80.0,false,yes
 
 ![image](https://github.com/Guruprasad21002001/WDM_EXP1/assets/95342910/f629236c-5c68-4cf4-9925-e24cdf77a6bd)
 
-![image](https://github.com/Karthikeyan21001828/WDM_EXP1/assets/93427303/451296e9-769d-410c-9786-610f951b6de7)
+![image](https://github.com/Guruprasad21002001/WDM_EXP1/assets/95342910/112b9cd4-b836-41a7-8c69-8792ec503eb9)
 
 ### 2) Remove -> Pre-Processing Technique:
 
