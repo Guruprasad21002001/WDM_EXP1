@@ -119,7 +119,7 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 ![image](https://github.com/Guruprasad21002001/WDM_EXP1/assets/95342910/a4c74d3a-3b7c-4d61-804b-229e98e6bb3b)
 
-![image](https://github.com/Karthikeyan21001828/WDM_EXP1/assets/93427303/c75aca75-376f-4d25-8142-0b0efc27978f)
+![image](https://github.com/Guruprasad21002001/WDM_EXP1/assets/95342910/54767cd1-42be-4369-8e95-c4a50d9a7973)
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
