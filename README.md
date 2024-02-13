@@ -117,7 +117,7 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
-![image](https://github.com/Karthikeyan21001828/WDM_EXP1/assets/93427303/bae434bd-e196-4070-98ae-846750257106)
+![image](https://github.com/Guruprasad21002001/WDM_EXP1/assets/95342910/a4c74d3a-3b7c-4d61-804b-229e98e6bb3b)
 
 ![image](https://github.com/Karthikeyan21001828/WDM_EXP1/assets/93427303/c75aca75-376f-4d25-8142-0b0efc27978f)
 
